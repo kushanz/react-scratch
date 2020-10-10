@@ -7,7 +7,7 @@ import Header from './pages/Header'
 export default function App() {
   return (
     <div>
-    <Header title="Header Copmonent"/>
+    <Header title="My React"/>
       <h1>Hello StackBlitz!</h1>
       <p>Start editing to see some magic happen :)</p>
     </div>
